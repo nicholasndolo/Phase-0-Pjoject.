@@ -1,0 +1,13 @@
+h1#case{
+   color:antiquewhite 
+  }
+
+ul > li {
+    color: blue;
+}
+
+img {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+}
